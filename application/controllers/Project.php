@@ -59,7 +59,7 @@ function display_data($id = NULL){
     show_404();
   }
 
-  $cek = $this->project_model->cek_data($id);
+  // $cek = $this->project_model->cek_data($id);
   if ($cek == 0) {
     show_404();
   }else{
