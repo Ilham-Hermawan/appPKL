@@ -58,7 +58,6 @@ function display_data($id = NULL){
   if($id === NULL){
     show_404();
   }
-  komik
   $cek = $this->project_model->cek_data($id);
   if ($cek == 0) {
     show_404();
