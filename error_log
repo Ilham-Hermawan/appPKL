@@ -1,0 +1,6 @@
+[11-Aug-2017 03:36:01 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/vilandproject/public_html/app/application/config/config.php on line 26
+[11-Aug-2017 03:36:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/vilandproject/public_html/app/application/config/config.php on line 27
+[11-Aug-2017 03:37:01 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/vilandproject/public_html/app/application/config/config.php on line 26
+[11-Aug-2017 03:37:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/vilandproject/public_html/app/application/config/config.php on line 27
+[11-Aug-2017 03:38:01 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/vilandproject/public_html/app/application/config/config.php on line 26
+[11-Aug-2017 03:38:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/vilandproject/public_html/app/application/config/config.php on line 27
